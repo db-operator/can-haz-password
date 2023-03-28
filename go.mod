@@ -1,4 +1,4 @@
-module github.com/kloeckner-i/can-haz-password
+module github.com/db-operator/can-haz-password
 
 go 1.17
 
