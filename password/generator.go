@@ -21,7 +21,7 @@ package password
 import (
 	"errors"
 
-	"github.com/kloeckner-i/can-haz-password/rand"
+	"github.com/db-operator/can-haz-password/rand"
 )
 
 // Characters for use as character classes. Exported for utility purposes.

@@ -20,7 +20,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/kloeckner-i/can-haz-password/rand"
+	"github.com/db-operator/can-haz-password/rand"
 
 	"github.com/stretchr/testify/assert"
 )
