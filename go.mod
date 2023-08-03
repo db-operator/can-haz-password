@@ -1,9 +1,9 @@
 module github.com/db-operator/can-haz-password
 
-go 1.17
+go 1.20
 
 require (
-	github.com/geozelot/intree v1.0.0
+	github.com/geozelot/intree v1.0.1
 	github.com/stretchr/testify v1.6.1
 )
 
