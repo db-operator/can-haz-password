@@ -1,6 +1,6 @@
 module github.com/db-operator/can-haz-password
 
-go 1.17
+go 1.25.0
 
 require (
 	github.com/geozelot/intree v1.0.1

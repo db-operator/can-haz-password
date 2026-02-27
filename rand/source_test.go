@@ -45,6 +45,7 @@ func TestCryptoRandomSource(t *testing.T) {
 
 		// If the point falls within the bounds of a circle (eg. a radius from a origin point).
 		// Then count that point as falling inside of the circle, as well as inside of the bounding box.
+		//nolint:all
 		if math.Pow(x, 2)+math.Pow(y, 2) <= 1.0 {
 			circle++
 		}
